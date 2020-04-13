@@ -45,4 +45,5 @@ module.exports = [
   'Ojalá que en griega pueda hacer lo mismo. *-Alejandro Carrasco*',
   'La gente me criticó mucho a mí. La gente tiraba la piedra y después la escondía, así que la mano quedaba por ahí hablando sola. *-Murci Rojas*',
   'Me fui a la cresta cuando inventaron el Fair Play. *-Ricardo “Manteca” González*'
+  'Hay 4 En la Linea, Tepeen Porfa!!. *-PatoDeGoma*'
 ];
